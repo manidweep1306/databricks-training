@@ -47,3 +47,17 @@
 - Finding Unmatched Rows using NULL
 - FULL OUTER JOIN using UNION
 - Relationship-based Queries
+  
+
+### 🟢Day 3
+      -> Solved 10 new Window Functions Queries.
+
+### 🟢Day 4
+      -> Learn CTE and its operations.
+      -> Practiced the Queries.
+
+### 🟢Day 5
+      -> Solved 0-25 CMS Starter Practice Queries.
+
+### 🟢Day 6
+      -> Solved 25-50 CMS Starter Practice Queries.
